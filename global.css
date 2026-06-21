@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.box {
+                color: rgba(221, 235, 247, 0.877),
+}

@@ -8,6 +8,7 @@
     "scheme": "reactapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+       "jsEngine": "jsc",
     "ios": {
       "supportsTablet": true
     },
@@ -33,9 +34,9 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff",
+          "backgroundColor": "#2E7D32",
           "dark": {
-            "backgroundColor": "#000000"
+            "backgroundColor": "#1B5E20"
           }
         }
       ]
